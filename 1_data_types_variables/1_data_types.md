@@ -1,4 +1,4 @@
-## Data type And Variables
+## Data types And Variables
 
 #### Data types in Java
 
